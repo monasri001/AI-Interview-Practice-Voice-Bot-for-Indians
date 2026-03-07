@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+openai
+openai-whisper
+elevenlabs
+streamlit
+sounddevice
+scipy
+python-dotenv

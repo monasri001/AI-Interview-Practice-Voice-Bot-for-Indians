@@ -1,0 +1,7 @@
+Evaluate the interview answer.
+
+Give:
+Score /10
+Strengths
+Weakness
+Improved answer
