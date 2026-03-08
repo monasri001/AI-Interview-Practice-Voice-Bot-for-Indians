@@ -50,4 +50,5 @@ Day 1 : Idea pitching
     Improvements:
     - Add measurable achievements
     - Reduce filler words '''
-
+Day 2 
+ created basic workflow template 
