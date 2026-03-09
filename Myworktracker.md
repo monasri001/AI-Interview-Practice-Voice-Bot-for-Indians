@@ -1,54 +1,6 @@
 Day 1 : Idea pitching 
- 
-        ''' Project Idea
+ The AI Interview Practice Voice Bot for Indian Students is an interactive system designed to simulate a real interview experience and help students improve their interview skills. In this system, the bot acts as a virtual interviewer that asks questions through voice, such as “Tell me about yourself.” The user responds verbally, for example, “My name is Monasri. I am pursuing B.Tech in AI and Data Science…”. The system then converts the user’s speech into text, evaluates the quality and relevance of the answer, and provides constructive feedback along with suggestions for improvement. It also assigns a score based on the response and highlights strengths, such as clear introductions or well-explained projects, while recommending improvements like adding measurable achievements or reducing filler words. After providing feedback, the bot continues the interview by asking the next question. This project is particularly useful for Indian students as it can be customized to include technical interview questions, HR interview questions, English speaking practice, answer evaluation, confidence feedback, and real-time voice interaction, thereby helping students build confidence and perform better in real job interviews.
 
-      AI Interview Practice Voice Bot for Indian Students
-      
-      The system acts like a real interviewer.
-      
-      Example interaction
-      
-      Bot (voice):
-      "Tell me about yourself."
-      
-      User (speaks):
-      "My name is Monasri. I am pursuing B.Tech in AI and Data Science..."
-      
-      Bot:
-      
-      converts speech → text
-      
-      evaluates answer
-      
-      gives feedback
-      
-      gives improvement tips
-    
-    asks next question
-    
-    2️⃣ Why This Project Is Unique
-    
-    You can customize it for Indian interviews:
-    
-    Features:
-    
-    ✅ Technical interview questions
-    ✅ HR interview questions
-    ✅ English speaking practice
-    ✅ Answer evaluation
-    ✅ Confidence feedback
-    ✅ Voice interaction
-    
-    Example evaluation:
-    
-    Score: 7/10
-    
-    Strengths:
-    - Clear introduction
-    - Good project explanation
-    
-    Improvements:
-    - Add measurable achievements
-    - Reduce filler words '''
+
 Day 2 
  created basic workflow template 
